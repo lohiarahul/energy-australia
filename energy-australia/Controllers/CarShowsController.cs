@@ -6,7 +6,7 @@ using System.Collections.Generic;
 namespace energy_australia.Controllers
 {
     [ApiVersion("1.0")]
-    [Route("api/v{version:apiVersion}/[controller]")]
+    [Route("api/v{version:apiVersion}/cars")]
     [ApiController]
     public class CarShowsController : ControllerBase
     {

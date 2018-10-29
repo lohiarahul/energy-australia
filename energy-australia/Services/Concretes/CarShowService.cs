@@ -42,7 +42,7 @@ namespace energy_australia.Services.Concretes
                 "IAA Cars Frankfurt",
                 "Paris Global Motor Show",
                 "NAIAS North American International Motor Show",
-                "NAIAS North American International Motor Show",
+                "Geneva Motor Show",
                 "Auto Shanghai"
             };
             return carShowNames;
